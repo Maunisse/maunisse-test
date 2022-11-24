@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/maunisse-test/static/css/main.073c9b0a.css",
-    "main.js": "/maunisse-test/static/js/main.31cafef7.js",
+    "main.css": "/maunisse-test/static/css/main.00b8cfe8.css",
+    "main.js": "/maunisse-test/static/js/main.8df0b51d.js",
     "static/js/787.f055211e.chunk.js": "/maunisse-test/static/js/787.f055211e.chunk.js",
-    "static/media/logo.svg": "/maunisse-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/intro.png": "/maunisse-test/static/media/intro.0d4175d29560ae38b985.png",
+    "static/media/fon.png": "/maunisse-test/static/media/fon.d67adf00644fdb58138c.png",
+    "static/media/Spinner-1s-200px.svg": "/maunisse-test/static/media/Spinner-1s-200px.2374f7babc17a5ae0802.svg",
     "index.html": "/maunisse-test/index.html",
-    "main.073c9b0a.css.map": "/maunisse-test/static/css/main.073c9b0a.css.map",
-    "main.31cafef7.js.map": "/maunisse-test/static/js/main.31cafef7.js.map",
+    "main.00b8cfe8.css.map": "/maunisse-test/static/css/main.00b8cfe8.css.map",
+    "main.8df0b51d.js.map": "/maunisse-test/static/js/main.8df0b51d.js.map",
     "787.f055211e.chunk.js.map": "/maunisse-test/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.31cafef7.js"
+    "static/css/main.00b8cfe8.css",
+    "static/js/main.8df0b51d.js"
   ]
 }
